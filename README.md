@@ -5,21 +5,13 @@ This project demonstrates an end-to-end Machine Learning workflow using Linear R
 ## ⚙️ Tools & Technologies Used
 
 Python 3.9+
-
 Jupyter Notebook
-
 Flask
-
 Scikit-learn
-
 Pandas / NumPy
-
 Pickle
-
 Git & GitHub
-
 Docker
-
 Heroku
 
 ## ▶️ Run the Project Locally
