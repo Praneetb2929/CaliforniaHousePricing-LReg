@@ -26,7 +26,7 @@ Heroku
 
 Clone this repository:
   ```bash
-git clone https://github.com/your-username/linear-regression-ml-project.git
+git clone https://github.com/Praneetb2929/CaliforniaHousePricing-LReg.git
 cd linear-regression-ml-project
  ```
 
