@@ -27,7 +27,7 @@ Heroku
 Clone this repository:
   ```bash
 git clone https://github.com/Praneetb2929/CaliforniaHousePricing-LReg.git
-cd linear-regression-ml-project
+cd CaliforniaHousePricing-LReg
  ```
 
 Create and activate a virtual environment:
